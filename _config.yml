@@ -1,1 +1,6 @@
 theme : jekyll_version: 4.2.0-theme-hacker
+jekyll:
+  executable: /opt/buildhome/.gem/ruby/bin/jekyll
+  plugins:
+  - jekyll-vercel
+
